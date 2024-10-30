@@ -536,7 +536,7 @@ textarea:focus {
   }
 }
 
-/* @media (max-width: 450px) {
+@media (max-width: 450px) {
   html {
     font-size: 50%;
   }
@@ -548,4 +548,8 @@ textarea:focus {
   .contact form .inputBox input {
     width: 100%;
   }
-} */
+
+  .toggle-btn {
+    display: none;
+  }
+}
